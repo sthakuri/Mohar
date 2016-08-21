@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:Mohar"
              x:Class="Mohar.MainPage">
 
-  <Label Text="Welcome to Xamarin Forms!"
+  <Label Text="Mohar, Track your all expences."
            VerticalOptions="Center"
            HorizontalOptions="Center" />
 
